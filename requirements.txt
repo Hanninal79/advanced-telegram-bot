@@ -1,0 +1,5 @@
+telebot
+yt-dlp
+openai
+requests
+python-dotenv
